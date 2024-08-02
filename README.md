@@ -1,9 +1,4 @@
-- I am Atharva Vaidya.
-- I am a Master's student at RWTH Aachen in Robotic Systems Engineering with a background of Mechanical engineering.
-- I am interested in Machine Learning and applications of Computer Vision in the field of Robotics and Autonomous driving.
-- I am an ingenious and creative individual with a hunger to learn.
-- I am a team player with a will-do attitude and excellent communication skills.
-- I am actively searching for full-time oppportunities in the field of Computer Vision and 3D Perception.
+
 
 
 <!---
